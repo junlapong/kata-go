@@ -1,10 +1,4 @@
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Println("Hello Golang")
-}
+package day1
 
 // Hello there
 func Hello(name string) string {
